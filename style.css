@@ -58,22 +58,23 @@ section > p {
     padding: 1em;
 }
 
-section.imagem > p {
-    display: inline-block;
-    text-shadow: 0px 0px 7px #000000;
-}
-
 section.normal {
     background-color: white;
     color: black;
 }
 
 section.imagem {
+    height: 100vh;
     background-color: #747373;
     color: white;
     box-shadow: inset 6px 6px 13px 0px #000000d7;
     background-size: cover;
     background-attachment: fixed;
+}
+
+section.imagem > p {
+    display: inline-block;
+    text-shadow: 0px 0px 7px #000000;
 }
 
 section#img1 {
