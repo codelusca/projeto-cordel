@@ -64,7 +64,6 @@ section.normal {
 }
 
 section.imagem {
-    height: 50vh;
     background-color: #747373;
     color: white;
     box-shadow: inset 6px 6px 13px 0px #000000d7;
