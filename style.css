@@ -64,11 +64,9 @@ section.normal {
 }
 
 section.imagem {
-    height: 100vh;
     background-color: #747373;
     color: white;
     box-shadow: inset 6px 6px 13px 0px #000000d7;
-    background-size: cover;
     background-attachment: fixed;
 }
 
